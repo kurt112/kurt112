@@ -1,4 +1,4 @@
-<h1 align="center">Software engineer Kurt Lupin C. Orioque</h1>
+<h1 align="center">Kurt Lupin C. Orioque</h1>
 <h3 align="center">I am Kurt Lupin Orioque a passionate Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kurt112&label=Profile%20views&color=0e75b6&style=flat" alt="kurt112" /> </p>
